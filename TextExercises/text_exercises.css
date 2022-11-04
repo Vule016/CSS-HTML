@@ -1,0 +1,53 @@
+.text1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+
+.text3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.text4 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.q1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.q2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.q3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.q4 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    font-size: 20px;
+    font-weight: lighter;
+
+}
+
+.increase_weight {
+    font-style: italic;
+}
+
+@font-face {
+    font-family:'Pacifico' ;
+    src: url('./Pacifico-Regular.ttf');
+}
+.text1 {
+    font-family: Pacifico;
+}
+.q1 {
+    font-family: Pacifico;
+}

@@ -1,0 +1,78 @@
+.circles {
+    list-style-type: circle;
+}
+
+.squares {
+    list-style-type: square;
+}
+
+.upperA {
+    list-style-type: upper-alpha;
+}
+
+.romanN {
+    list-style-type: upper-roman;
+}
+
+.imgM {
+    list-style-image: linear-gradient(to left bottom, red, blue);
+    list-style-position: outside;
+    background-color: antiquewhite;
+    width: 200px;
+}
+
+.imgInside {
+    list-style-image: linear-gradient(purple, purple);
+    list-style-position: inside;
+    background-color: antiquewhite;
+    width: 200px;
+}
+
+.tabela{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-spacing: 0px;
+    border-collapse: collapse;
+    margin: auto;
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.tabela tr:nth-child(even){
+    background-color: rgb(209, 207, 207);
+}
+
+.tabela tr:hover td{
+    background-color: rgb(226, 177, 15);
+}
+
+
+.header {
+    background-color: rgb(151, 39, 39);
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.slika1 {
+    height: 100px;
+    max-width: 100%;
+}
+
+.slika2 {
+    height: 100px;
+}
+
+.slika3 {
+    height: 100px;
+}
+
+.slika4 {
+    height: 100px;
+}
+
+.slika5 {
+    height: 100px;
+}

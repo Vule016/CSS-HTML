@@ -1,0 +1,42 @@
+.dt {
+    color: rgb(0, 206, 209, );
+    background-color: bisque;
+    opacity: 0.5;
+}
+
+.tr {
+    color: #00ced1;
+    background-color: rgba(173, 196, 127, 0.5);
+}
+
+.tp {
+    color: #00ced1;
+    background-color: rgb(183, 155, 209);
+}
+
+.slika {
+    opacity: 0.4;
+}
+
+
+.slika2 {
+    background:rgba(0, 0, 0, 0.4) url(./caption.jpg);
+    width: 700px;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: contain;   
+}
+
+.boja1 {
+    background-color: rgb(148, 69, 69);
+    color: aliceblue;
+}
+
+.boja2 {
+    background-color: rgb(147, 116, 175);
+    color: hotpink;
+}
+
+.boja3 {
+    background-color: yellowgreen;
+}

@@ -1,0 +1,19 @@
+.dc {
+    text-shadow: 3px 3px 3px rgba(150, 150, 150, 1);
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: green;
+}
+
+a:active {
+    color: blue;
+}
