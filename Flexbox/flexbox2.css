@@ -1,0 +1,46 @@
+.container {
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    background-color: antiquewhite;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.flexbox-item {
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.flexbox-item-co1 {
+    background-color: rgb(252, 211, 161);
+    width: 300px;
+    height: 300px;
+}
+.flexbox-item-co2 {
+    background-color: rgb(252, 152, 21);
+    width: 300px;
+    height: 300px;
+}
+.flexbox-item-co3 {
+    background-color: rgb(37, 37, 37);
+    width: 300px;
+    height: 300px;
+}
+.flexbox-item-co4 {
+    background-color: rgb(133, 102, 161);
+    width: 300px;
+    height: 300px;
+}
+.flexbox-item-co5 {
+    background-color: rgb(158, 158, 158);
+    width: 300px;
+    height: 300px;
+}
+.flexbox-item-co6 {
+    background-color: rgb(153, 106, 49);
+    width: 300px;
+    height: 300px;
+}
